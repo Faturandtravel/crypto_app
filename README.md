@@ -1,4 +1,4 @@
-# crypto_app
+# CryptoApp
 
 A new Flutter project.
 
